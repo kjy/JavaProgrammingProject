@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=RemoteControlTest
+comment0.text=\n\ RemoteControlTest\ runs\ a\ test\ to\ convert\ a\ string\ value,\ which\ has\ several\ Kiva\ commands\ as\ characters\ such\ as\ "FFFTRFD",\ to\ string\ elements\ of\ enum\ values\ \n\ of\ such\ commands\ such\ as\ [FORWARD,\ FORWARD,\ FORWARD,\ TAKE,\ TURN_RIGHT,\ FORWARD].\ \ The\ method\ .converToKivaCommands()\ is\ used\ to\ make\ the\ conversion.\ \ \n\ A\ failure\ of\ conversion\ results\ in\ an\ illegal\ argument\ exception.\n\ \n\ @author\ Karen\ Yang\ \n\ @version\ 10/16/2021\n
+comment1.params=
+comment1.target=void\ testConvertCommands()
+numComments=2

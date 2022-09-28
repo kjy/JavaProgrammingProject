@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=RemoteControl
+comment1.params=
+comment1.target=RemoteControl()
+comment1.text=\n\ Build\ a\ new\ RemoteControl.\n
+comment2.params=strCommands
+comment2.target=java.lang.String[]\ convertToKivaCommands(java.lang.String)
+comment2.text=\n\ Method\ to\ convert\ multiple\ Kiva\ Commands\ in\ a\ String\ into\ the\ enum\ names\ into\ String\n\ @param\ \ String\ \ \ \ \ "FFFTRF"\n\ @return\ \ Array\ of\ Strings\ \ [FORWARD,\ FORWARD,\ FORWARD,\ TAKE,\ TURN_RIGHT,\ FORWARD]\n\ @IllegalArgumentException\ called\ when\ character\ key\ is\ not\ one\ of\ the\ options\ available\n
+comment3.params=
+comment3.target=void\ run()
+comment3.text=\n\ The\ controller\ that\ directs\ Kiva's\ activity.\ Prompts\ the\ user\ for\ the\ floor\ map\n\ to\ load,\ displays\ the\ map,\ and\ asks\ the\ user\ for\ the\ commands\ for\ Kiva\ to\ execute.\n\n
+numComments=4

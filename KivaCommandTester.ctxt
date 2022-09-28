@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=KivaCommandTester
+comment0.text=\n\ The\ KivaCommandTester\ runs\ a\ series\ of\ tests\ to\ print\ out\ Kiva\ Commands\ as\ enum\ values,\ such\ as\ "FORWARD",\ \n\ along\ with\ its\ associated\ character\ value,\ known\ as\ a\ direction\ key,\ such\ as\ "F".\ These\ commands\ are\ used\n\ as\ inputs\ to\ give\ instructions\ to\ the\ Kiva\ robot\ as\ to\ what\ moves\ to\ make.\n\ \n\ @author\ Karen\ Yang\n\ @version\ 10/16/2021\n
+comment1.params=
+comment1.target=void\ testForward()
+comment2.params=
+comment2.target=void\ testTurnLeft()
+comment3.params=
+comment3.target=void\ testTurnRight()
+comment4.params=
+comment4.target=void\ testTake()
+comment5.params=
+comment5.target=void\ testDrop()
+numComments=6
